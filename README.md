@@ -23,8 +23,7 @@ I’m currently an intern at RBC Capital Markets, where I work on automation too
 ## 💻 Tech Stack & Skills
 
 ### 🖥️ Programming Languages:
-- **Proficient:** C++, C#, Java, Python, JavaScript, SQL, PowerShell
-- **Familiar:** HTML, CSS
+- **Proficient:** C++, C#, Java, Python, JavaScript, SQL, PowerShell, HTML, CSS
 
 ### 🚀 Frameworks & Libraries:
 - **Frontend:** React.js, Xamarin, Unity
@@ -53,16 +52,6 @@ I’m currently an intern at RBC Capital Markets, where I work on automation too
 - Implemented dynamic theme and dark mode selection in a cross-platform app, boosting engagement by 25%.
 - Developed a live chat feature with C# and Xamarin, increasing user interaction by 30%.
 - Streamlined workflows with automated testing, reducing release time by 20%.
-
----
-
-## 📁 Projects
-
-### [Planet Express E-Commerce Platform](https://github.com/KdRome/planetExpress) - 04/2024
-A full-stack e-commerce platform developed with **React.js**, **Flask**, and **PostgreSQL**, featuring secure authentication, product filtering, automated email notifications, and more.
-
-### [Gaming Trends Analysis](https://github.com/CTP-AKP/AKP_Data_Science) - 10/2023
-Analyzed gaming trends with **Python**, **Pandas**, and **OpenAI API**, achieving 92% accuracy in predictions. Deployed a Streamlit app for real-time data visualization.
 
 ---
 
